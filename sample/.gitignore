@@ -1,0 +1,5 @@
+/build
+fabric.properties
+keyInfos.properties
+*.apk
+*.jks
